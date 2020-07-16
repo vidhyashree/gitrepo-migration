@@ -4,11 +4,11 @@
 git clone <url to ORI repo> temp
 cd temp
 
-#To see list of different branches
+# To see list of different branches
 git branch -a
 
 # Checkout all the branches that you want to copy from old repo
-git checkout <branch>
+git checkout branch-name
 
 # Fetch all the tags from old repo
 git fetch --tags
