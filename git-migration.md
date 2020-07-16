@@ -1,4 +1,4 @@
-# Copy git repo from one repo to another with history
+# Copying git repo and all its branches, tags, history to a new remote repository
 
 # Create local repo in temp folder
 git clone <url to ORI repo> temp
